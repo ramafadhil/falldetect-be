@@ -25,3 +25,8 @@ _ide_helper.php
 Homestead.json
 Homestead.yaml
 Thumbs.db
+# Python temp files
+__pycache__/
+*.jpg
+*.png
+.venv/
